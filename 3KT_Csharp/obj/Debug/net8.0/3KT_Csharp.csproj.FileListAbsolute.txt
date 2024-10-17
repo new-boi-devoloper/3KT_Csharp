@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\bin\Debug\net8.0\3KT_Csharp.exe
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\bin\Debug\net8.0\3KT_Csharp.deps.json
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\bin\Debug\net8.0\3KT_Csharp.runtimeconfig.json
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\bin\Debug\net8.0\3KT_Csharp.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\bin\Debug\net8.0\3KT_Csharp.pdb
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.AssemblyInfo.cs
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\refint\3KT_Csharp.dll
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.pdb
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\3KT_Csharp.genruntimeconfig.cache
+C:\Users\Asus\Desktop\P\ItHub\3 course\QA\3KT_Csharp\3KT_Csharp\obj\Debug\net8.0\ref\3KT_Csharp.dll
